@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "clean-brace-368802",
+  "private_key_id": "0ccd614538783b4050c501a7a7a620474eac9ab1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4Vr1HF41oNsPr\nO7jkKYe8/hu886583n/4AM7md2iGCEMO4OUc+9Bzkm6YCIta8piehzbUTH1Vhow2\nuqEAfx7X6mWeC2iekK1ZSodgp7kpD3kkWUcGnMsZ0kl6Ouulf1811ywMwF6SdGsJ\nB5gYwqbkbjewJHQa2Dg+P684m44ZDGrjiNfjcBwuDo+U2GXbNudsA+bI+9pmE3Zr\n4XcuesWrVS2K9NDueFuBuQeXo3RLBu3nJy4fq951b6INS1T5G8O0JqA13kdLannS\nvrkcSZtUCvX6w7yPMv1dZc105ui9LU6wZ2/M61js1GWus/8hdKl0PkM98D+qawtc\n/wa5S89PAgMBAAECggEAAleGKhJzh0DPqZWY2lU1iaiH/UhY2owQTIjkfmsP8EjH\nyVDNuFnx1c+lCT6g8c1yzbjI11bT1M1Tyxiar23uApVr9KxCbplGvbaqFG4Tdrqt\ny4Q5PpOpXn4C1VzmqrPJwUTAvrZTvUD7YLvKKkf2yzokCcajLvm5cf9oud7IDF6Y\nsaxS9oC22PJshSlOcI1Rziq5zVb2hWOoF0kejyRre4y10ihaKU1ZTVhGRl+d8ZzE\ntOPohoAOyPCW2IlLpT5NP1UlW4OQcnYgAh9Y+lPAG+8b77hcc91QTdDeM460JaLO\ndL8EGs6AnhHHOk84BOlUOpHHf8w3BeDpr7CbkiilGQKBgQDgUmrOay6T/LvAfEIR\n6h9jQ/b8gYJqEMXwBTtSOw6d8cZzBSOHTVlOn/5rFe5z2/S7mXE4gpW+Y+rKAzz0\nBRONfzzWkbsGdkm5SnVnhjCPH/0h+KUskpu+PpZe0h8WBXC02M85EaJBKEWMMxVE\nuKBN7kLw6RZVnEaWrTjdfr8wNQKBgQDSXt7+k7ham1FAP+9uvDguxqo6BFVic0Hg\nwOtPu1inZV/RUPDb6DxxdRN224WNvQLZDrx5Fd21f/hlUGxoqKgRi674ui06Lur8\nGwZh2/oqnfD3PENIZk8/JFp3DYCE8jtfny6sm9weK/4QAE9cd8ncQwMcOURK8PPT\nJAfRbOh58wKBgQDZLNG84KXqnl/DfkmVAH684vsHAfeZ6n1H4DjLZuPC5GWFy+7W\nunsBFQMC9+uw/b2VtnuYA00oU6HnTHVBpnyEnC/xaIuSOQktO7oorRDsMEMpFYoM\nejAQYpXAXVu9PS0d2V3eWYUl4fBbSMWJj9mbOVZT2MZHwhHRJQmN330IFQKBgDc7\nz4K52EJ52yhqYPwLERk+8fzPnHd/2YEgRegmQU2aMUEs5kBmxk/ntFeVpYgkYzYI\nR3XnRtHbqqU3K2+DMLWCnksR3sQTA4FzuwZAkntUAqt3OBcvPYlPiy0M73x4eRxP\nGBsbxPxrAobC/hNCJE7fjVaAtqySfQInyKG03Yj/AoGBAIQRnGta1ru9cx6JpoVX\nX5yXEhGQZjqDpTixyLU8LULTUyKBubOxooEvfqpHLC48EEipMsC3P//e/ygguP01\nnbZkndu1LwzxxYW+T4S6e0bdhcFP0Fot16FAE92DER9q31IKFIw36mTgdZnUMuqq\nUdQfTv3bsHqXa2prvPysnsgL\n-----END PRIVATE KEY-----\n",
+  "client_email": "practice@clean-brace-368802.iam.gserviceaccount.com",
+  "client_id": "113622390861035748857",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/practice%40clean-brace-368802.iam.gserviceaccount.com"
+}
